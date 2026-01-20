@@ -1,0 +1,14 @@
+{
+    "entries": [
+        {"key": "Align Left", "value": "Align Left"},
+        {"key": "Align Vertical", "value": "Align Vertical"},
+        {"key": "Align Right", "value": "Align Right"},
+
+        {"key": "Align Top", "value": "Align Top"},
+        {"key": "Align Horizontal", "value": "Align Horizontal"},
+        {"key": "Align Bottom", "value": "Align Bottom"},
+
+        {"key": "Grid Horizontal", "value": "Grid Horizontal"},
+        {"key": "Grid Vertical", "value": "Grid Vertical"}
+    ]
+}

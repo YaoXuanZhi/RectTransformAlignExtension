@@ -1,0 +1,14 @@
+{
+    "entries": [
+        {"key": "Align Left", "value": "左对齐"},
+        {"key": "Align Vertical", "value": "垂直居中对齐"},
+        {"key": "Align Right", "value": "右对齐"},
+
+        {"key": "Align Top", "value": "上对齐"},
+        {"key": "Align Horizontal", "value": "水平居中对齐"},
+        {"key": "Align Bottom", "value": "下对齐"},
+
+        {"key": "Grid Horizontal", "value": "横向分布"},
+        {"key": "Grid Vertical", "value": "竖向分布"}
+    ]
+}

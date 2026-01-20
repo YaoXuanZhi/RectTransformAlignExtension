@@ -1,0 +1,10 @@
+{
+  "name": "com.interwovencode.recttransformalignextension",
+  "displayName": "RectTransform Align Extension",
+  "version": "0.1.0",
+  "unity": "2019.2",
+  "description": "Integrate multi-GameObject alignment and arrangement features into the RectTransform Inspector.",
+  "author": {
+    "name": "YaoXuanZhi"
+  }
+}
